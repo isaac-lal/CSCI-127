@@ -15,3 +15,6 @@ Repeat 36 times:
     Walk forward 100 steps 
 '''
 
+import turtle
+fan = turtle.Turtle()
+

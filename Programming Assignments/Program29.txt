@@ -1,0 +1,9 @@
+# Name: Isaac Lal
+# Email: isaac.lal46@myhunter.cuny.edu
+# Date: October 26, 2021
+# Programming Assignment #29
+
+#!/bin/bash
+
+echo "Hello CSCI127 Students!"
+echo "$USER is learning shell scripts!"

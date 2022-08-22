@@ -1,0 +1,6 @@
+# Name: Isaac Lal
+# Email: isaac.lal46@myhunter.cuny.edu
+# Date: October 20, 2021
+# Programming Assignment #25
+
+out = ((in1) or (in2) or (in1 and in2))

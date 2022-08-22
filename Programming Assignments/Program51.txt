@@ -1,0 +1,11 @@
+# Name: Isaac Lal
+# Email: isaac.lal46@myhunter.cuny.edu
+# Date: November 29, 2021
+# Programming Assignment #51
+
+ADDI $s0, $zero, 100 #set s0 to 100
+ADDI $s1, $zero, 25  #use to increment counter, $s0
+AGAIN: SUB $s0, $s0, $s1
+BEQ $s0, $zero, DONE
+J AGAIN
+DONE:  #To break out of the loop

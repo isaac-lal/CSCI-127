@@ -1,0 +1,8 @@
+# Name: Isaac Lal
+# Email: isaac.lal46@myhunter.cuny.edu
+# Date: October 21, 2021
+# Programming Assignment #26
+
+out1 = (in1 and in2)
+out2 = ((not in1 and in2) or (in1 and not in2))
+out3 = not in2

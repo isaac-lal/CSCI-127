@@ -1,0 +1,18 @@
+# Name: Isaac Lal
+# Email: isaac.lal46@myhunter.cuny.edu
+# Date: November 22, 2021
+# Programming Assignment #48
+
+mkdir csci127
+cd csci127
+mkdir images
+mkdir files
+cd images
+mkdir png
+mkdir jpg
+mkdir gif
+cd ..
+cd files 
+mkdir csv
+mkdir txt
+ls -alt
